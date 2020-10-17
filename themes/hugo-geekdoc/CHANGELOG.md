@@ -1,3 +1,0 @@
-- ENHANCEMENT
-  - improve and normalize microblog formatting
-  - add font and css preloading links

@@ -1,6 +1,0 @@
-{{ define "main" }}
-<h1>#{{ .Title }}</h1>
-{{ range (.Paginator 10).Pages.ByDate.Reverse }}
-{{ partial "listPage" . }}
-{{ end }}
-{{ end }}
