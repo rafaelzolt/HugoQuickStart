@@ -1,0 +1,13 @@
+{
+  "name": "paperesque",
+  "version": "0.1.0",
+  "description": "paperesque Hugo theme",
+  "main": "index.js",
+  "author": "Fabian Tamp (@capnfabs)",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@juggle/resize-observer": "^3.0.2"
+  },
+  "devDependencies": {}
+}

@@ -1,0 +1,17 @@
+.c-global-header {
+  padding: 1em 0;
+
+  &__inner {
+    display: flex;
+    align-items: center;
+  }
+
+  &__primary {
+    width: 60%;
+  }
+
+  &__utility {
+    text-align: right;
+    width: 40%;
+  }
+}

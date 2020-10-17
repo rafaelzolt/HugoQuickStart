@@ -1,0 +1,24 @@
+/**
+ * IcoMoon's SVG Icon
+ *
+ * @url https://icomoon.io/app
+ */
+
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: $color-font-base;  // currentColor;
+
+  &.icon-cross,
+  &.icon-menu {
+    width: 1.5em;
+    height: 1.5em;
+  }
+}
+
+.icon-get-pocket {
+  width: 0.9599609375em;
+}

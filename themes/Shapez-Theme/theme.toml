@@ -1,0 +1,10 @@
+name = "Shapez Theme"
+license = "MIT"
+licenselink = "https://opensource.org/licenses/MIT"
+homepage = "https://github.com/djuelg/Shapez-Theme"
+tags = ["hugo", "blog", "Shapez", "SVG", "design"]
+min_version = 0.74
+
+[author]
+  name = "djuelg"
+  homepage = "https://github.com/djuelg"
