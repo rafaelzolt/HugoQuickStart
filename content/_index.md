@@ -1,6 +1,6 @@
 ---
 title: "Hi, I'm Rafael. 👋"
 featured_image: '/images/hero-image-sky.jpg'
-description: "I'm a software engineer, Agile coach and maker."
+description: "I'm a Software Engineer, Agile coach and Maker."
 ---
-Welcome to my blog with some of my work in progress. I've been working on some ideas. You can read some of the progress below.
+I've been working on some interesting projects and some new ideas are progress. Find my best blog posts bellow. 
