@@ -1,5 +1,5 @@
 title = "Rafael blog"
-baseURL = "https://rafaelzolt.com"
+baseURL = "https://rafafernandes.com"
 languageCode = "en-us"
 theme = "ananke"
 
@@ -20,7 +20,7 @@ enableRobotsTXT = true
   site_logo = ""
   description = "Hi. Welcome to my blog"
   facebook = ""
-  twitter = "https://twitter.com/GoHugoIO"
+  twitter = "https://twitter.com/"
   instagram = ""
   youtube = ""
   github = ""
