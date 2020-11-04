@@ -33,3 +33,7 @@ Adds, recommendations
 etc
 
 ## Books are timeless
+
+It seems to work ok for now andianst 
+
+astaosienta ai then we have to write what we what an see how it goes, this is actually pretty good if it worked and could publish directly and I hope it can let's fix it then. 
